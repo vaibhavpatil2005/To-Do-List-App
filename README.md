@@ -17,6 +17,10 @@ A simple and interactive To-Do List web application built using **HTML, CSS, and
 ## 🎬 Live Demo  
 🔗 [Project Link](https://vaibhavpatil2005.github.io/To-Do-List-App)  
 ![image](https://github.com/user-attachments/assets/2d2b5853-6462-451c-ae08-e4cb9d090d40)
+![image](https://github.com/user-attachments/assets/9406ae26-0929-44f0-a126-a8ac97af796a)
+![image](https://github.com/user-attachments/assets/1bec8ee7-d5a5-4080-be67-8ddc1de3a52b)
+
+
 
 
 
